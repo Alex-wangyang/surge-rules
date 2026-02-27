@@ -1,0 +1,97 @@
+# AI-All-in-One.list
+# Author: Alex-wangyang
+# Description: Comprehensive AI services routing rule for Surge
+# Update: 2026-02-27
+
+# --- OpenAI / ChatGPT ---
+DOMAIN,chat.openai.com
+DOMAIN,chatgpt.com
+DOMAIN,oaistatic.com
+DOMAIN,oaiusercontent.com
+DOMAIN,openai.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom.imgix.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,azureedge.net
+
+# --- Google / Gemini / Vertex AI ---
+DOMAIN,ai.google
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,makersuite.google.com
+DOMAIN,vertexai.googleapis.com
+DOMAIN,vertexai.googleusercontent.com
+DOMAIN,vertexaisearch.cloud.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.dev
+
+# --- Anthropic / Claude ---
+DOMAIN,anthropic.com
+DOMAIN,claude.ai
+DOMAIN,claude.site
+DOMAIN,console.anthropic.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# --- OpenRouter ---
+DOMAIN,openrouter.ai
+DOMAIN,openrouterapi.com
+DOMAIN-SUFFIX,openrouter.ai
+
+# --- Cursor ---
+DOMAIN,cursor.com
+DOMAIN,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+
+# --- Perplexity ---
+DOMAIN,perplexity.ai
+DOMAIN,perplexity.com
+DOMAIN-SUFFIX,perplexity.ai
+
+# --- Mistral AI ---
+DOMAIN,mistral.ai
+DOMAIN,console.mistral.ai
+DOMAIN,api.mistral.ai
+DOMAIN-SUFFIX,mistral.ai
+
+# --- Cohere ---
+DOMAIN,cohere.com
+DOMAIN,api.cohere.com
+DOMAIN,os.cohere.io
+DOMAIN,console.cohere.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,cohere.io
+
+# --- Hugging Face ---
+DOMAIN,huggingface.co
+DOMAIN,hf.co
+DOMAIN,api-inference.huggingface.co
+DOMAIN,cdn.huggingface.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+
+# --- Replicate ---
+DOMAIN,replicate.com
+DOMAIN,api.replicate.com
+DOMAIN-SUFFIX,replicate.com
+
+# --- Other Popular ---
+DOMAIN,groq.com
+DOMAIN,api.groq.com
+DOMAIN-SUFFIX,groq.com
+DOMAIN,snova.ai
+DOMAIN,poe.com
+DOMAIN,quora.com
+DOMAIN,together.ai
+DOMAIN,api.together.xyz
+DOMAIN,fireworks.ai
+DOMAIN,api.fireworks.ai
+DOMAIN,deepinfra.com
+DOMAIN,api.deepinfra.com
