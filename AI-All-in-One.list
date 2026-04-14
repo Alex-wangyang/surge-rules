@@ -33,11 +33,16 @@ DOMAIN-SUFFIX,google.dev
 
 # --- Anthropic / Claude ---
 DOMAIN,anthropic.com
+DOMAIN,console.anthropic.com
 DOMAIN,claude.ai
 DOMAIN,claude.site
-DOMAIN,console.anthropic.com
+DOMAIN,claude.com
+DOMAIN,www.claude.com
+DOMAIN,platform.claude.com
+DOMAIN,code.claude.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 
 # --- OpenRouter ---
 DOMAIN,openrouter.ai
