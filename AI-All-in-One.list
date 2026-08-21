@@ -44,6 +44,9 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 
+# --- Meta / Muse ---
+DOMAIN-SUFFIX,meta.ai
+
 # --- OpenRouter ---
 DOMAIN,openrouter.ai
 DOMAIN,openrouterapi.com
