@@ -1,0 +1,57 @@
+# Thailand-Banking.list
+# Author: Alex-wangyang
+# Description: Shared official-domain routing rules for major Thai retail banks
+# Compatible with: Surge RULE-SET and Mihomo/OpenClash classical text rule-provider
+# Update: 2026-09-04
+#
+# Scope: bank-owned public domains only. Mobile-app API/CDN domains should be
+# added only after an observed, non-transaction login canary and source review.
+
+# --- Kasikornbank (KBank / K PLUS / K BIZ) ---
+# Source: https://www.kasikornbank.com/en/kplus/start
+# Source: https://www.kasikornbank.com/en/kbiz/pages/index.aspx
+DOMAIN-SUFFIX,kasikornbank.com
+DOMAIN-SUFFIX,kasikornbankgroup.com
+
+# --- Siam Commercial Bank (SCB / SCB EASY) ---
+# Source: https://www.scb.co.th/en/personal-banking/digital-banking/scb-easy.html
+DOMAIN-SUFFIX,scb.co.th
+# Legacy SCB EASY web domain retained for existing links and services.
+DOMAIN-SUFFIX,scbeasy.com
+
+# --- Bangkok Bank (Bualuang) ---
+# Source: https://www.bangkokbank.com/en/Security-Tips/Our-website-address
+DOMAIN-SUFFIX,bangkokbank.com
+DOMAIN-SUFFIX,bangkokbank.co.th
+DOMAIN-SUFFIX,bangkokbank.net
+DOMAIN-SUFFIX,bbl.co.th
+
+# --- Bank of Ayudhya (Krungsri) ---
+# Source: https://www.krungsri.com/en/personal/banking-services/online
+# Source: https://www.krungsrionline.com/
+DOMAIN-SUFFIX,krungsri.com
+DOMAIN-SUFFIX,krungsrionline.com
+
+# --- Krungthai Bank (KTB / Krungthai NEXT) ---
+# Source: https://krungthai.com/en/personal/loan/personal-loan/172
+DOMAIN-SUFFIX,krungthai.com
+
+# --- TMBThanachart Bank (ttb) ---
+# Source: https://www.ttbbank.com/en/about-us
+DOMAIN-SUFFIX,ttbbank.com
+
+# --- United Overseas Bank Thailand (UOB Thailand) ---
+# Source: https://www.uob.co.th/
+DOMAIN-SUFFIX,uob.co.th
+
+# --- CIMB Thai Bank ---
+# Source: https://www.cimbthai.com/en/personal/ways-to-bank/cimb-thai-digital-banking.html
+DOMAIN-SUFFIX,cimbthai.com
+
+# --- Government Savings Bank (GSB / MyMo) ---
+# Source: https://www.gsb.or.th/online/mymo/
+DOMAIN-SUFFIX,gsb.or.th
+
+# --- Bank for Agriculture and Agricultural Cooperatives (BAAC) ---
+# Source: https://www.baac.or.th/products/digital
+DOMAIN-SUFFIX,baac.or.th
