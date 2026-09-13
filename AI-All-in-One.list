@@ -132,3 +132,6 @@ DOMAIN,fireworks.ai
 DOMAIN,api.fireworks.ai
 DOMAIN,deepinfra.com
 DOMAIN,api.deepinfra.com
+
+# --- OpenCode Zen / Go ---
+DOMAIN-SUFFIX,opencode.ai
