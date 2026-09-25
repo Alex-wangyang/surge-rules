@@ -1,7 +1,7 @@
 # AI-All-in-One.list
 # Author: Alex-wangyang
 # Description: Comprehensive AI services routing rule for Surge
-# Update: 2026-09-13
+# Update: 2026-09-25
 
 # --- OpenAI / ChatGPT ---
 DOMAIN,chat.openai.com
@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,claude.com
 
 # --- Meta / Muse ---
 DOMAIN-SUFFIX,meta.ai
+DOMAIN,auth.meta.com
 
 # --- OpenRouter ---
 DOMAIN,openrouter.ai
