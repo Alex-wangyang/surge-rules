@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,claude.com
 # --- Meta / Muse ---
 DOMAIN-SUFFIX,meta.ai
 DOMAIN,auth.meta.com
+DOMAIN,ai.meta.com
 
 # --- OpenRouter ---
 DOMAIN,openrouter.ai
